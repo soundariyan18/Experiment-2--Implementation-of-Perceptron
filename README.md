@@ -130,7 +130,7 @@ OUTPUT:
 
 ![MODEL](https://github.com/soundariyan18/Experiment-2--Implementation-of-Perceptron/blob/main/Screenshot%202023-10-19%20161002.png)
 
-![MODEL]()
+![MODEL](https://github.com/soundariyan18/Experiment-2--Implementation-of-Perceptron/blob/main/Screenshot%202023-10-19%20161032.png)
 
 ![MODEL]()
 
